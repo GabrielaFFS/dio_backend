@@ -1,8 +1,8 @@
 package Operadores;
 
-public class Operadores {
+public class Concatenacao {
      public static void main(String[] args) {
-        String nomeCompleto = "GABRIELA" + " Freire";
+        String nomeCompleto = "Gabriela" + " Freire";
         System.out.println(nomeCompleto);
      }
 }
